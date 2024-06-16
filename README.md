@@ -4,7 +4,7 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamsaha&label=Profile%20views&color=0e75b6&style=flat" alt="uttamsaha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamsdev&label=Profile%20views&color=0e75b6&style=flat" alt="uttamsdev" /> </p>
 
 ### 💫 About Me:
 
@@ -78,17 +78,17 @@ In my MERN career, I have almost 2+ years of industry experience and 4+ years of
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=uttamsaha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=uttamsdev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
 
 ### 🔝 Current GitHub Activity Status
 
 <div align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=uttamsaha&theme=tokyonight&hide_border=true&border_radius=5" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamsaha&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=6&theme=tokyonight&hide_border=true" alt="languages graph"  />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=uttamsdev&theme=tokyonight&hide_border=true&border_radius=5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamsdev&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=6&theme=tokyonight&hide_border=true" alt="languages graph"  />
 </div>
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=uttamsaha&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=uttamsdev&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ![snake gif](https://github.com/uttamsaha/uttamsaha/blob/main/uttam.svg)
