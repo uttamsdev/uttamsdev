@@ -8,8 +8,8 @@
 
 ### 💫 About Me:
 
-<p align="justify">Hello Myself <b>Uttam Kumar Saha</b>, I'm a experienced MERN Stack Developer. My work is in MERN sector but i love competitive programming. When i have free time or any type of off day, i try to solve some problem for refreshing my mind. Problem solving is a power what give me lots of confidence.
-In my MERN career, I have almost 2+ years of industry experience and 4+ years of technical knowledge. I can build high-performing and high-quality websites that offer the best user experience. I always focus on the products I build and believe in quality over quantity. Let's collaborate and make some history together.</p>
+<p align="justify">Hello, I'm Uttam Kumar Saha (@uttamsdev), a Full Stack and Blockchain Developer based in Bangladesh. With over a year of professional experience and more than three years of technical expertise, I specialize in creating high-performing, high-quality web applications that deliver exceptional user experiences. My approach emphasizes quality over quantity, ensuring that every product I build stands out.
+As a passionate developer, I focus on front-end development, designing visually stunning and user-friendly websites. I thrive on transforming ideas into remarkable digital experiences and am always eager to explore and work with new technologies.Let's collaborate to turn innovative concepts into reality and make a lasting impact together.</p>
 
 - 🔭 I’m currently working on [Blockchain,Advance Express & MongoDB Query](https://github.com/uttamsaha/Web3-Student-Feedback-System)
 
