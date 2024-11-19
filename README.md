@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
 
-- 👨‍💻 My Portfolio [https://uttamsaha.com](https://uttamsaha.com)
+- 👨‍💻 My Portfolio [https://uttamsaha.com](https://uttamsdev.me)
 
 - 💬 Ask me about **MERN, Linux**
 
-- 📫 How to reach me [LinkedIn](hhttps://www.linkedin.com/in/uttamsaha404)
+- 📫 How to reach me [LinkedIn](hhttps://www.linkedin.com/in/uttamsdev)
 
-- 📄 My Resume [Resume](https://drive.google.com/file/d/15cGK-4_Ehztpkeok0l64edu73t09AE6H/view?usp=sharing)
+- 📄 My Resume [Resume](https://drive.google.com/file/d/1aFbJ_NeTW_wRWLh1r_8ulacgVqaTVSRr/view?usp=sharing)
 
 - ⚡ Fun fact **I am foodie :)**
 
