@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
 
-- 👨‍💻 My Portfolio [https://uttamsaha.com](https://uttamsdev.me)
+- 👨‍💻 My Portfolio [https://uttamsdev.me](https://uttamsdev.me)
 
 - 💬 Ask me about **MERN, Linux**
 
