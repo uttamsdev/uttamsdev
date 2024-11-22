@@ -20,7 +20,7 @@
 
 - 📫 How to reach me [LinkedIn](hhttps://www.linkedin.com/in/uttamsdev)
 
-- 📄 My Resume [Resume](https://drive.google.com/file/d/1aFbJ_NeTW_wRWLh1r_8ulacgVqaTVSRr/view?usp=sharing)
+- 📄 My Resume [Resume](https://drive.google.com/file/d/1KRQKQyGbWInKF07XiSrMN1o0FdELSCTp/view?usp=sharing)
 
 - ⚡ Fun fact **I am foodie :)**
 
