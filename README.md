@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/SsGwLrS/uttamsaha.png)](https://uttamsaha.com)
+[![MasterHead](https://i.ibb.co.com/6nFNvpj/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)](https://uttamsdev.me)
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Uttam Kumar Saha,</h1>
 
@@ -22,7 +22,7 @@
 
 - 📄 My Resume [Resume](https://drive.google.com/file/d/1KRQKQyGbWInKF07XiSrMN1o0FdELSCTp/view?usp=sharing)
 
-- ⚡ Fun fact **I am foodie :)**
+- ⚡ Email - **uttamsdev@gmail.com**
 
 ### Get in Touch
 
