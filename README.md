@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co.com/6nFNvpj/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)](https://uttamsdev.me)
+[![MasterHead](https://i.ibb.co.com/4VsvMBx/uttam-banner.png)](https://uttamsdev.me)
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Uttam Kumar Saha,</h1>
 
